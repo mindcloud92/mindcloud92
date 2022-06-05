@@ -9,7 +9,7 @@
 </div>
 
 
-<h1 align="center">I'm Super Developer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">I'm Super Developer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
 </h3>
 <p align="center"> Web | Backend Developer</p>
 <br/>
