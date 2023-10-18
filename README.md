@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-        <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=mindcloud92&&style=flat-square&label=VIEW &logo=html"/>
+        <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=mindcloud92&&style=flat-square&label=VIEW&logo=html"/>
     </a>
 </div>  
 
