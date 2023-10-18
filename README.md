@@ -19,7 +19,7 @@ class Profile {
 
     static final String USERNAME = "mindcloud92";
     
-    static final String BLOG_URL = "https://super-dev.xyz";
+    static final String BLOG_URL = "https://mindcloud92.github.io";
     
     static final LocalDate CAREER_STARTED_AT = LocalDate.of(2013, 3, 6);
 
