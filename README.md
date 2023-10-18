@@ -17,13 +17,13 @@
 ```java
 class Profile {
 
-    static final String USERNAME = "mindcloud92";
+    private static final String USERNAME = "mindcloud92";
     
-    static final String BLOG_URL = "https://mindcloud92.github.io";
+    private static final String BLOG_URL = "https://mindcloud92.github.io";
     
-    static final LocalDate CAREER_STARTED_AT = LocalDate.of(2013, 3, 6);
+    private static final LocalDate CAREER_STARTED_AT = LocalDate.of(2013, 3, 6);
 
-    static final Map<TechStack, String> TECH_STACK_MAP = Map.of(
+    private static final Map<TechStack, Set<String>> TECH_STACK_MAP = Map.of(
      
         Backend, Set.of(
             "java", "Spring", "Spring Boot", "JPA", "QueryDsl", "iBatis", "myBatis",
