@@ -55,7 +55,7 @@ class Profile {
     <div>
         <img src="https://github-readme-stats.vercel.app/api?username=mindcloud92&show_icons=true&hide_title=true&hide_border=true" height="150px" />
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=mindcloud92&theme=flag-india&hide_border=true"  height="150px"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindcloud92&hide_border=true&layout=compact&custom_title=Usage Languages&title_color=2a2a2a" />        
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindcloud92&hide_border=true&layout=compact&custom_title=Usage%20Languages&title_color=2a2a2a" />        
     </div>
 </details>
 
