@@ -26,7 +26,7 @@ class Profile {
     private static final Map<TechStack, Set<String>> TECH_STACK_MAP = Map.of(
      
         Backend, Set.of(
-            "java", "Spring", "Spring Boot", "JPA", "QueryDsl", "iBatis", "myBatis",
+            "java", "Spring", "Spring Boot", "Spring Batch", "JPA", "jOOQ", "QueryDsl", "iBatis", "myBatis",
             "C#", ".NET", ".NET Core", "Entity Framework"
         ),
             
